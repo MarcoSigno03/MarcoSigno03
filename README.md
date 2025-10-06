@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MarcoSigno03/MarcoSigno03/main/banner.png" alt="Welcome to my profile!">
-</p>
 <table>
   <tr>
     <td valign="top">

@@ -22,7 +22,6 @@
 
 ---
 
-<!-- Nuova Sezione Stats -->
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -31,11 +30,9 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoSigno03&layout=compact&langs_count=8&card_width=320" />
   </a>
-    <!-- Statistiche Generali -->
 </p>
 <p align="center">
-    <!-- Grafico Attività -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoSigno03&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoSigno03&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ### 📬 Find me around the web

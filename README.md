@@ -1,34 +1,42 @@
-<table>
-  <tr>
-    <td valign="top">
-      <h1 align="center">Marco Signore</h1>
-      <p align="center">
-        <i>Computer Science Student @ University of Trento</i>
-        <br>
-        <i>Builder of Web Things & Aspiring Software Developer</i>
-      </p>
-      <p align="center">
-      I'm a passionate problem-solver, driven by the challenge of turning an idea into a real, useful product. 
-      <br>
-      My journey into tech started with a simple website project and has 
-      <br>
-      since grown into a full-blown passion for web development and clean code.
-      <br>
-      <br>
-      My experience in retail taught me a valuable lesson: the best technology is useless 
-      <br>
-      if it doesn't solve a human need. That's the perspective I bring to every project.
-      </p>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcoSigno03" alt="Marco Signore's GitHub Stats"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h1 align="center">Marco Signore</h1>
+  <p align="center">
+    <i>Computer Science Student @ University of Trento</i>
+    <br>
+    <i>Builder of Web Things & Aspiring Software Developer</i>
+  </p>
+  <p>
+    I'm a passionate problem-solver, driven by the challenge of turning an idea into a real, useful product. 
+    <br>
+    My journey into tech started with a simple website project and has 
+    <br>
+    since grown into a full-blown passion for web development and clean code.
+    <br><br>
+    My experience in retail taught me a valuable lesson: 
+    <br>
+    the best technology is useless if it doesn't solve a human need. 
+    <br>
+    That's the perspective I bring to every project.
+  </p>
+</div>
 
 ---
+
+<!-- Nuova Sezione Stats -->
+<h2 align="center">📊 My GitHub Stats 📊</h2>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcoSigno03" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoSigno03&layout=compact&langs_count=8&card_width=320" />
+  </a>
+    <!-- Statistiche Generali -->
+</p>
+<p align="center">
+    <!-- Grafico Attività -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoSigno03&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 ### 📬 Find me around the web
 <p align="left">
@@ -121,12 +129,20 @@ It's built on a client-server architecture where drones act as nodes in a graph,
 The project is split across multiple repositories, emphasizing modularity and teamwork.
 
 **Key Repositories:**
-- **[Drone Logic]**<br> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ADVPROG-2024&repo=Dronegowski&theme=github_dark" />
-- **[Simulation Controller Logic]**<br> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ADVPROG-2024&repo=SimulationController&theme=github_dark" />
-- **[Network Initializer Logic]**<br> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ADVPROG-2024&repo=NetworkInitializer&theme=github_dark" />
-- **[Server Logic]**<br> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ADVPROG-2024&repo=Servers&theme=github_dark" />
-- **[Client Logic]**<br> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ADVPROG-2024&repo=Client&theme=github_dark" />
-- **[Shared Library]**<br> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ADVPROG-2024&repo=dronegowski_utils&theme=github_dark" />
+<table>
+  <tr>
+    <td><a href="https://github.com/ADVPROG-2024/Dronegowski"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ADVPROG-2024&repo=Dronegowski&theme=github_dark" /></a></td>
+    <td><a href="https://github.com/ADVPROG-2024/SimulationController"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ADVPROG-2024&repo=SimulationController&theme=github_dark" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ADVPROG-2024/NetworkInitializer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ADVPROG-2024&repo=NetworkInitializer&theme=github_dark" /></a></td>
+    <td><a href="https://github.com/ADVPROG-2024/Servers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ADVPROG-2024&repo=Servers&theme=github_dark" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ADVPROG-2024/Client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ADVPROG-2024&repo=Client&theme=github_dark" /></a></td>
+    <td><a href="https://github.com/ADVPROG-2024/dronegowski_utils"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ADVPROG-2024&repo=dronegowski_utils&theme=github_dark" /></a></td>
+  </tr>
+</table>
   
 **Tech used:**
 <p>

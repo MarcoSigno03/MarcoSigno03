@@ -37,7 +37,7 @@
 
 ### 📬 Find me around the web
 <p align="left">
-  <a href="https://www.linkedin.com/in/marco-signore-183b1a306/" target="_blank">
+  <a href="https://www.linkedin.com/in/marco-signore/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/MarcoSigno03/MarcoSigno03/blob/main/Curriculum-Vitae.pdf" target="_blank">

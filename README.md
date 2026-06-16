@@ -3,14 +3,14 @@
   <p align="center">
     <i>Computer Science Student @ University of Trento</i>
     <br>
-    <i>Builder of Web Things & Aspiring Software Developer</i>
+    <i>Mobile & Full-Stack Developer</i>
   </p>
   <p>
-    I'm a passionate problem-solver, driven by the challenge of turning an idea into a real, useful product. 
+    I'm a passionate software developer driven by the challenge of turning complex ideas into real, polished products. 
     <br>
-    My journey into tech started with a simple website project and has 
+    Recently, I successfully developed and published a Kotlin Multiplatform mobile game from scratch, 
     <br>
-    since grown into a full-blown passion for web development and clean code.
+    reaching over 1,000+ active players.
     <br><br>
     My experience in retail taught me a valuable lesson: 
     <br>
@@ -25,14 +25,11 @@
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcoSigno03" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcoSigno03&theme=react-dark&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoSigno03&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoSigno03&layout=compact&langs_count=8&card_width=320&theme=react-dark" />
   </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoSigno03&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ### 📬 Find me around the web
@@ -45,6 +42,9 @@
   </a>
   <a href="mailto:marco.signore03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.msntrento.dunkmanager" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play">
   </a>
 </p>
 

@@ -22,7 +22,6 @@
 
 ---
 
-
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -50,52 +49,33 @@
   <a href="https://play.google.com/store/apps/details?id=com.msntrento.dunkmanager" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play">
   </a>
-</p>
-
----
-
-### 💻 My Digital Toolkit
-
-<p align="left">
-  <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-
-</p>
-<p align="left">
-  <strong>Framework & Libraries:</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
-<p align="left">
-  <strong>Developer Tools:</strong><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
-  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="AndroidStudio">
-
+  <a href="https://apps.apple.com/us/app/dunk-manager/id6762453278" target="_blank">
+    <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store">
+  </a>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-*Here are a few projects I'm proud of. They showcase my journey from learning foundational concepts to building complex, full-stack applications.*
 
-#### 1. SplitSmart - Full-Stack Web App
+#### 1. 🏀 Dunk Manager - Mobile Management Game (Live on Google Play & App Store)
+*A deeply simulated basketball management game built from scratch for Android and iOS.*
+<br>
+**Impact:** **1,000+ Downloads** on the Google Play Store and App Store.
+
+*   **Architecture:** Built entirely in **Kotlin Multiplatform (KMP)** sharing 100% of the business logic and UI across iOS and Android.
+*   **UI:** Modern, reactive user interface developed using **Compose Multiplatform**.
+*   **Under the hood:** Implemented Clean Architecture, MVVM, Dependency Injection (Koin), and local persistence using Room (SQLite).
+*   **Features:** Custom play-by-play simulation engine, AI-driven trade market algorithms, dynamic player progression, and dynamic season schedules.
+
+**Tech used:**
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Compose">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+</p>
+
+#### 2. SplitSmart - Full-Stack Web App
 
 <a href="https://github.com/G47-INGSW-2023/SplitSmart" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G47-INGSW-2023&repo=SplitSmart&theme=github_dark" />
@@ -118,7 +98,7 @@ The app features an intuitive frontend and a high-performance, secure backend.
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
-#### 2. Dronegowski - Distributed Drone Network Simulation
+#### 3. Dronegowski - Distributed Drone Network Simulation
 <p align="center">
   <a href="https://github.com/ADVPROG-2024" target="_blank"></a>
 </p>
@@ -152,7 +132,7 @@ The project is split across multiple repositories, emphasizing modularity and te
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
 </p>
 
-#### 3. AndroidStudioProjects
+#### 4. AndroidStudioProjects
 <a href="https://github.com/MarcoSigno03/AndroidStudioProjects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoSigno03&repo=AndroidStudioProjects&theme=github_dark" />
 </a>
@@ -163,3 +143,39 @@ A collection of mini-projects and exercises completed following Google's officia
 This repository documents my learning process, covering core concepts like UI components with Jetpack Compose, 
 <br>
 Activity lifecycle, data persistence with Room, and integration with external APIs.
+
+---
+
+### 💻 My Digital Toolkit
+
+<p align="left">
+  <strong>Languages:</strong><br>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+<p align="left">
+  <strong>Framework & Libraries:</strong><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+<p align="left">
+  <strong>Developer Tools:</strong><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" alt="CLion">
+  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="AndroidStudio">
+</p>

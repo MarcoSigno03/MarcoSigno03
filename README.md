@@ -10,7 +10,7 @@
     <br>
     Recently, I successfully developed and published a Kotlin Multiplatform mobile game from scratch, 
     <br>
-    reaching over 1,000+ active players.
+    reaching over 3,000+ active players.
     <br><br>
     My experience in retail taught me a valuable lesson: 
     <br>
@@ -61,7 +61,7 @@
 #### 1. 🏀 Dunk Manager - Mobile Management Game (Live on Google Play & App Store)
 *A deeply simulated basketball management game built from scratch for Android and iOS.*
 <br>
-**Impact:** **1,000+ Downloads** on the Google Play Store and App Store.
+**Impact:** **3,000+ Downloads** on the Google Play Store and App Store.
 
 *   **Architecture:** Built entirely in **Kotlin Multiplatform (KMP)** sharing 100% of the business logic and UI across iOS and Android.
 *   **UI:** Modern, reactive user interface developed using **Compose Multiplatform**.
